@@ -1,2 +1,6 @@
 # LegionWoW
-Legion-WoW CMS Project
+
+Website could be insecure?! This is my learning project.
+
+
+![Main page](http://i.imgur.com/VS4V79i.jpg)
